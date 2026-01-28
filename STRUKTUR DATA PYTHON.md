@@ -1,4 +1,4 @@
-1️⃣ LIST
+#1️⃣ LIST
 
 📌 List adalah kumpulan data berurutan, bisa diubah (mutable), dan boleh duplikat.
 
